@@ -65,8 +65,8 @@ Meu nome é João Pedro Savioli, tenho 21 anos e sou de Itu, SP. Concluí o ensi
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Vue.js"
+    title="Vue.js" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
@@ -101,8 +101,8 @@ Meu nome é João Pedro Savioli, tenho 21 anos e sou de Itu, SP. Concluí o ensi
 <div style="display: flex">
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />      
