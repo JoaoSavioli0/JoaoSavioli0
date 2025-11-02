@@ -6,7 +6,7 @@ Meu nome é João Pedro Savioli, tenho 21 anos e sou de Itu, SP. Concluí o ensi
 
 ---
 
-## Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div style="width: 100%; display:flex; align-items:center">
 <div>
@@ -21,7 +21,7 @@ Meu nome é João Pedro Savioli, tenho 21 anos e sou de Itu, SP. Concluí o ensi
 <div style="width:15px; border-left: 1px solid gray; height: 185px;"></div>
 
 <div style="width: 200px;">
-<h3 style="text-align: start">Front-end</h3>
+<h4 style="text-align: start">Front-end</h4>
 <div style="display: flex">
 <img 
     align="left" 
@@ -96,7 +96,8 @@ Meu nome é João Pedro Savioli, tenho 21 anos e sou de Itu, SP. Concluí o ensi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 </div>
-<h3>Back-end</h3>
+<br/>
+<h4>Back-end</h4>
 <div style="display: flex">
 <img 
     align="left" 
@@ -104,7 +105,7 @@ Meu nome é João Pedro Savioli, tenho 21 anos e sou de Itu, SP. Concluí o ensi
     title="C#" 
     width="30px" 
     style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />      
 <img     
     align="left" 
     alt="C#"
